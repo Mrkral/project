@@ -1,4 +1,4 @@
-<model-viewer src="1.draco.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="2" shadow-softness="0.44" exposure="1.02">
+<model-viewer src="112233.draco.draco.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="2" exposure="0.79" shadow-softness="1">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
